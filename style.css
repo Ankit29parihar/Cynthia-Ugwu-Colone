@@ -49,6 +49,7 @@ html,body{
     transform: translate(var(--follower-x), var(--follower-y));
     animation-name: circle1;
     animation-duration: 3s;
+    pointer-events: none;
 }
 
 
